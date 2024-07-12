@@ -1,3 +1,7 @@
+
+// Remve duplicates in a string
+ //  "abbccda"
+ 
 import java.util.*;
 
 public class RecuDuplicateString {

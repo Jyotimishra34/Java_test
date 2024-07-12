@@ -1,3 +1,5 @@
+// Move all 'X' to the end of the string
+
 import java.util.*;
 
 public class RecusionString {
